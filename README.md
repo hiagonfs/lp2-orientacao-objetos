@@ -1,4 +1,4 @@
-# Linguagem de Programação II — Orientação a Objetos
+# Linguagem de Programação II
 
 Repositório destinado ao armazenamento dos códigos desenvolvidos durante as aulas da disciplina **Linguagem de Programação II**, com foco em **Programação Orientada a Objetos**, na **Universidade Estadual da Paraíba — UEPB**.
 

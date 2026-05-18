@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculadoraNotas {
+public class CalculadoraNotasSemMetodo {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
